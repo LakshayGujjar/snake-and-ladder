@@ -1,0 +1,27 @@
+table, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  background-color: #FF7733;
+
+}
+
+tr{
+	padding : 0px;
+}
+td{
+	text-align: left;
+	padding : 0px;
+	height : 80px;
+	width : 80px;
+}
+
+span{
+	display: block;
+}
+
+.center {
+  margin: auto;
+  width: 30%;
+  background-color: #FF7733; /* change this color to player color if his player arrives on present index */
+}
+
